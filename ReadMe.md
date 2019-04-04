@@ -1,15 +1,18 @@
 # General Notes
 
-## AI for Content Recommendations - Deliver sophisticated content recommendations to users based on their previous habits and interests.
+## AI for Content Recommendations
+1. Deliver sophisticated content recommendations to users based on their previous habits and interests.
 
-## AI for Voice assistant program called DuerOS that has a significantly higher number of conversation based skill sets when compared to Alexa, Cortana, or Siri. 
+## AI for Voice assistant program
+1. DuerOS that has a significantly higher number of conversation based skill sets when compared to Alexa, Cortana, or Siri. 
 
 ## AI for Cyber Security 
 1. CloudWalk Technology Co. Ltd is an artificial intelligence focused technology company based in Guangzhou, China.
 2. Darktrace is a lead player in the world of cyber defence. The company is best known for the Darktrace Enterprise Immune System, which combines artificial intelligence algorithms with machine learning to build a unique “pattern of life” for every device, network and user. It then uses correlation techniques to create an advanced understanding of “normal activity” meaning that any potential threats or unusual activity, however new or advanced it may be can be quickly identified and stopped before too much damage is done. Another Darktrace product, the Darktrace Cloud gives users real time threat protection and is used by **Amazon Web Services** amongst others.
 3. CrowdStrike uses artificial intelligence to deliver sophisticated endpoint protection. This technology has enabled the company to reveal the identity of a number of high profile and **state sponsored** hackers.
 
-## AI for Facial Recongnition - Another Chinese company that specialises in artificial intelligence and facial recognition SenseTime has a significant presence in Japan, China and Hong Kong.
+## AI for Facial Recongnition 
+1. Company that specialises in artificial intelligence and facial recognition SenseTime has a significant presence in Japan, China and Hong Kong.
 
 ## AI for Healthcare
 1. IBM Watson
